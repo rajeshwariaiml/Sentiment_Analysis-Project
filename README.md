@@ -1,4 +1,5 @@
 # Amazon-Alexa-Reviews
+#I TOOK HELP FROM THIS VIDEO YOU CAN WATCH IT FOR REFERENCE
 
 ## Watch Video: https://www.youtube.com/watch?v=6A2w-KYG4Ko
 
@@ -6,7 +7,7 @@
 
 Step 1: Clone the repository
 ```
-git clone 
+git clone https://github.com/rajeshwariaiml/Sentiment_Analysis-Project.git
 ```
 
 Step 2: Open the cloned repository and create a conda environment. Activate the new environment
